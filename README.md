@@ -1,4 +1,4 @@
-# Xein Deniel
+<h1 align="center">Xein Deniel</h1>
 
 <table>
   <tr>
