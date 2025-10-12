@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <img src="xeinred.gif" alt="Logo" width="150">
     </td>
-    <td valign="top">
+    <td valign="middle">
       <p>
         Computer Science graduate with hands-on experience building practical and intuitive software. Completed internships in ERP systems, web development, and AI integration, gaining exposure to both backend engineering and frontend design.
       </p>
