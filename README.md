@@ -1,15 +1,11 @@
+# Xein Deniel
+
 <table>
   <tr>
     <td align="center" valign="top">
       <img src="xeinred.gif" alt="Logo" width="150">
     </td>
     <td valign="top">
-      <h1>Xein Deniel</h1>
-      <p>
-        <a href="mailto:xeindv@gmail.com">xeindv@gmail.com</a> •
-        <a href="https://linkedin.com/in/xeind">linkedin.com/in/xeind</a> •
-        <a href="https://github.com/xeind">github.com/xeind</a>
-      </p>
       <p>
         Computer Science graduate with hands-on experience building practical and intuitive software. Completed internships in ERP systems, web development, and AI integration, gaining exposure to both backend engineering and frontend design.
       </p>
