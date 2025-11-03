@@ -10,7 +10,7 @@
         Computer Science graduate with hands-on experience building practical and intuitive software. Completed internships in ERP systems, web development, and AI integration, gaining exposure to both backend engineering and frontend design.
       </p>
       <p>
-        Outside of work, I enjoy exploring open-source tools with custom configurations to improve developer workflows, experimenting with self-hosted environments, and pursuing UI/UX design as a creative outlet. My goal is to combine strong engineering skills with thoughtful design to deliver solutions that are both functional and feels right to use.
+        Passionate about exploring open-source tools with custom configurations to improve developer workflows, experimenting with self-hosted environments, and applying UI/UX design as a creative outlet. Focused on combining strong engineering skills with thoughtful design to deliver solutions that are both functional and feel right to use.
       </p>
     </td>
   </tr>
