@@ -7,10 +7,10 @@
     </td>
     <td valign="middle">
       <p>
-        Computer Science graduate with hands-on experience building practical and intuitive software. Completed internships in ERP systems, web development, and AI integration, gaining exposure to both backend engineering and frontend design.
+        Full Stack Developer specializing in frontend development. Focused on creating intuitive user experiences, thoughtful design, and building interfaces that feel right to use. Strong expertise in React, Remix, and Tailwind CSS, with full-stack capabilities across the entire development cycle.
       </p>
       <p>
-        Passionate about exploring open-source tools with custom configurations to improve developer workflows, experimenting with self-hosted environments, and applying UI/UX design as a creative outlet. Focused on combining strong engineering skills with thoughtful design to deliver solutions that are both functional and feel right to use.
+        Enjoys working with open-source tools, experimenting with custom configurations, and self-hosted environments to improve developer workflows. Has a strong foundation with a degree in Computer Science and practical experience through internships in ERP systems, web development, and AI integration.
       </p>
     </td>
   </tr>
@@ -20,19 +20,19 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td valign="top" style="padding: 0; margin: 0;"><strong>Languages:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Python, JavaScript, TypeScript, C#, Ruby, SQL</td>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Frontend:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">React, Remix, Tailwind CSS</td>
   </tr>
   <tr>
-    <td valign="top" style="padding: 0; margin: 0;"><strong>Frontend:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">React, Vue.js, Svelte, Tailwind CSS</td>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Languages:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">TypeScript, JavaScript, Python, SQL</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>Backend:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Node.js, Ruby on Rails, FastAPI, PostgreSQL, MySQL, Firebase</td>
+    <td valign="top" style="padding: 0; margin: 0;">Node.js, PostgreSQL, Redis, Prisma</td>
   </tr>
   <tr>
     <td valign="top" style="padding: 0; margin: 0;"><strong>DevOps:</strong></td>
-    <td valign="top" style="padding: 0; margin: 0;">Git, Docker, Kubernetes, Nginx</td>
+    <td valign="top" style="padding: 0; margin: 0;">Git, Docker, Nginx</td>
   </tr>
 </table>
