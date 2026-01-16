@@ -7,7 +7,7 @@
     </td>
     <td valign="middle">
       <p>
-        Full Stack Developer specializing in frontend development. Focused on creating intuitive user experiences, thoughtful design, and building interfaces that feel right to use. Strong expertise in React, Remix, and Tailwind CSS, with full-stack capabilities across the entire development cycle.
+        Full-Stack Engineer specializing in frontend development. Focused on creating intuitive user experiences, thoughtful design, and building interfaces that feel right to use. Strong expertise in React, Remix, and Tailwind CSS, with full-stack capabilities across the entire development cycle.
       </p>
       <p>
         Enjoys working with open-source tools, experimenting with custom configurations, and self-hosted environments to improve developer workflows. Has a strong foundation with a degree in Computer Science and practical experience through internships in ERP systems, web development, and AI integration.
