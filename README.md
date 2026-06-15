@@ -1,7 +1,7 @@
 <h1 align="center">Xein Deniel</h1>
 
 <div align="center">
-  <img src="xeinred.gif" alt="Logo" width="150">
+  <img src="xeinred.gif" alt="Logo" width="200">
 </div>
 
 <p>
