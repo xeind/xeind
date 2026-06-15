@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle">
+    <td align="center" valign="top" width="30%">
       <img src="xeinred.gif" alt="Logo" width="150">
     </td>
-    <td valign="middle">
+    <td valign="top" width="70%">
       <p>
         I'm a full-stack engineer focused on frontend development, UI craft, and backend performance. I enjoy building thoughtful interfaces that feel natural and easy to use.
       </p>
